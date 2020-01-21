@@ -1,0 +1,29 @@
+.body{
+    background-image: url(https://k60.kn3.net/taringa/1/0/C/D/1/1/reloaded789/8C0.jpg);
+}
+.navbar{
+    background: rgb(88, 94, 93);
+}
+.btn{
+    background: rgb(126, 126, 126);
+}
+.btn:hover{
+    background:rgba(126, 124, 124, 0.39);
+}
+.footer{
+    background:rgb(88, 94, 93) ;
+}
+.pretitulo{
+    background: rgb(88, 94, 93);
+}
+
+.p-3{
+    background: rgb(0, 0, 0);
+}
+
+.tuerca{
+    font-size: 25px;
+}
+.mb-3{
+    background: rgb(88, 94, 93);
+}
